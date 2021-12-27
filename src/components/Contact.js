@@ -94,6 +94,7 @@ const useStyles = makeStyles((theme) => ({
   },
   sectioncontent: {
     maxWidth: "80vw",
+    padding: theme.spacing(10),
   },
   titlechoices: {
     "& h5": {

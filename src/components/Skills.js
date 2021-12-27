@@ -26,6 +26,8 @@ const useStyles = makeStyles((theme) => ({
   sectioncontent: {
     maxWidth: "80vw",
     margin: "0 auto",
+    padding: theme.spacing(10),
+    
   },
 }));
 

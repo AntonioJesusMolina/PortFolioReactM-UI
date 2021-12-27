@@ -54,7 +54,7 @@ const useStyles = makeStyles((theme) => ({
     color: "#fff",
   },
   sectioncontent: {
-    maxWidth: "90vw",
+    maxWidth: "80vw",
     margin: "0 auto",
     padding: theme.spacing(10),
   },
